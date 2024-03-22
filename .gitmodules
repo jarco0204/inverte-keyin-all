@@ -1,3 +1,6 @@
 [submodule "inverte-keyin-iotShadowMasters"]
 	path = inverte-keyin-iotShadowMasters
 	url = https://github.com/jarco0204/inverte-keyin-iotShadowMasters.git
+[submodule "inverte-keyin-devOpers"]
+	path = inverte-keyin-devOpers
+	url = https://github.com/jarco0204/inverte-keyin-devOpers.git
